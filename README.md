@@ -14,3 +14,6 @@ a player's name.
 folks at [transfermarkt](https://www.transfermarkt.com/) and I don't own 
 any of it. Would have loved to see a filter on the website itself but here we 
 are.*
+
+# How to use this?
+Check out `goalmaal.mlx` inside MATLAB and the Live Script walks through the process of scraping-and-sourcing statistics. There's also `goalmaal.html` which has the same information but might be more accessible on a mobile device for quick reference.
