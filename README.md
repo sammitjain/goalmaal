@@ -149,20 +149,20 @@ At the end of this, we want to get a `goal` structure which has the following fi
 
 
 
-   -  `player        -    Name of the goal-scoring player` 
-   -  `season        -    Season info. YY/YY+1`      
-   -  `competition   -    Name of the competition/tournament ` 
-   -  `matchday      -    Matchday info / Round info `  
-   -  `date          -    Match date` 
-   -  `venue         -    H/A` 
-   -  `team          -    scoring team` 
-   -  `opponent      -    opposing team` 
-   -  `score         -    Result of the match` 
-   -  `position      -    Player's position` 
-   -  `minute        -    Scoring minute` 
-   -  `atscore       -    Scoreline at the time of goal` 
-   -  `type          -    Type of goal. For e.g. Direct Free Kick, Solo run, etc` 
-   -  `assist        -    Assisting player (if any)` 
+   -  `player`        -    Name of the goal-scoring player 
+   -  `season`        -    Season info. YY/YY+1
+   -  `competition`   -    Name of the competition/tournament
+   -  `matchday`      -    Matchday info / Round info
+   -  `date`          -    Match date
+   -  `venue`         -    H/A
+   -  `team`          -    scoring team
+   -  `opponent`      -    opposing team
+   -  `score`         -    Result of the match
+   -  `position`      -    Player's position
+   -  `minute`        -    Scoring minute
+   -  `atscore`       -    Scoreline at the time of goal
+   -  `type`          -    Type of goal. For e.g. Direct Free Kick, Solo run, etc
+   -  `assist`        -    Assisting player (if any)
 
 
 
