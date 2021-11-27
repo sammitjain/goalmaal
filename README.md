@@ -11,6 +11,6 @@ a quick solution) - so I wrote a quick scraper for collecting goal data given
 a player's name.
 
 *Disclaimer: In this case, all the data is available thanks to the amazing 
-folks at <https://www.transfermarkt.com/ transfermarkt.com> and I don't own 
+folks at [transfermarkt](https://www.transfermarkt.com/) and I don't own 
 any of it. Would have loved to see a filter on the website itself but here we 
 are.*
