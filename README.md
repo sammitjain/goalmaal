@@ -1,12 +1,12 @@
-# Goalmaal - Real-time Club Football Player Goal Statistics inside MATLAB
+# Goalmaal - Real-time Club Football Player Goal Statistics inside MATLAB&reg;
 
 
-**Tl;dr**: Goalmaal is a quick data scraper I wrote in MATLAB to source all goal statistics for a specific player.
+**Tl;dr**: Goalmaal is a quick data scraper I wrote in MATLAB&reg; to source all goal statistics for a specific player.
 
 
 
 
-I wanted to experiment a bit with Messi's goal statistics and find out some more insights about the players who have assisted him the most (It's not Dani Alves or Xavi or Iniesta!). Turns out that it's not so easy to directly get football goal data into MATLAB (I could be wrong about this, but I didn't find a quick solution) - so I wrote a quick scraper for collecting goal data given a player's name.
+I wanted to experiment a bit with Messi's goal statistics and find out some more insights about the players who have assisted him the most (It's not Dani Alves or Xavi or Iniesta!). Turns out that it's not so easy to directly get football goal data into MATLAB&reg; (I could be wrong about this, but I didn't find a quick solution) - so I wrote a quick scraper for collecting goal data given a player's name.
 
 
 
