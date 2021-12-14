@@ -1,17 +1,20 @@
 # Goalmaal - Real-time Club Football Player Goal Statistics inside MATLAB&reg;
 
 
-**Tl;dr**: Goalmaal is a quick data scraper I wrote in MATLAB&reg; to source all goal statistics for a specific player.
+**Tl;dr**: Goalmaal is a quick data scraper I wrote in MATLAB&reg; to source all club goal statistics for a specific football(soccer) player. To get this quickly working in MATLAB&reg;, just run goalmaal.m in MATLAB&reg;. Be sure to customize your URL and Player Name (`playerName`) when you run it. What follows is a more detailed explanation of what this scraper is doing.
 
 
 
+**Background:**
 
 I wanted to experiment a bit with Messi's goal statistics and find out some more insights about the players who have assisted him the most (It's not Dani Alves or Xavi or Iniesta!). Turns out that it's not so easy to directly get football goal data into MATLAB&reg; (I could be wrong about this, but I didn't find a quick solution) - so I wrote a quick scraper for collecting goal data given a player's name.
 
 
 
 
-**Disclaimer:** In this case, all the data is available thanks to the amazing folks at [transfermarkt.com](https://www.transfermarkt.com/) and I don't own any of it. Would have loved to see a filter on the website itself but here we are.
+**Disclaimer:** 
+
+In this case, all the data is available thanks to the amazing folks at [transfermarkt.com](https://www.transfermarkt.com/) and I don't own any of it. Would have loved to see a filter on the website itself but here we are.
 
 
   
@@ -22,7 +25,9 @@ Let's first zero in on a specific player for this demo: *Lionel Messi*. Visit th
 
 
 
-**IMPORTANT:** Please select "Detailed view" on the website and then set the correct value inside `goalsURL`
+**IMPORTANT:** 
+
+Please select "Detailed view" on the website and then set the correct value inside `goalsURL`
 
 
 ## Set player data
